@@ -14,5 +14,3 @@ func solution(_ num:Int) -> String {
     return isEven == 0 ? "Even" : "Odd"
     
 }
-
-solution(1234)

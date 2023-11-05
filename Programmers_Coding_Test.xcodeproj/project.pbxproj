@@ -7,7 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		AE898C962AF5318E00882501 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE898C952AF5318E00882501 /* main.swift */; };
+		AE0C233C2AF7D17600EBB864 /* 나머지가 1이 되는 수 찾기.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE0C233B2AF7D17600EBB864 /* 나머지가 1이 되는 수 찾기.swift */; };
+		AE898C962AF5318E00882501 /* 짝수와 홀수.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE898C952AF5318E00882501 /* 짝수와 홀수.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,8 +24,9 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		AE0C233B2AF7D17600EBB864 /* 나머지가 1이 되는 수 찾기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "나머지가 1이 되는 수 찾기.swift"; sourceTree = "<group>"; };
 		AE898C922AF5318E00882501 /* Programmers_Coding_Test */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Programmers_Coding_Test; sourceTree = BUILT_PRODUCTS_DIR; };
-		AE898C952AF5318E00882501 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		AE898C952AF5318E00882501 /* 짝수와 홀수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "짝수와 홀수.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +59,8 @@
 		AE898C942AF5318E00882501 /* Programmers_Coding_Test */ = {
 			isa = PBXGroup;
 			children = (
-				AE898C952AF5318E00882501 /* main.swift */,
+				AE898C952AF5318E00882501 /* 짝수와 홀수.swift */,
+				AE0C233B2AF7D17600EBB864 /* 나머지가 1이 되는 수 찾기.swift */,
 			);
 			path = Programmers_Coding_Test;
 			sourceTree = "<group>";
@@ -120,7 +123,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AE898C962AF5318E00882501 /* main.swift in Sources */,
+				AE0C233C2AF7D17600EBB864 /* 나머지가 1이 되는 수 찾기.swift in Sources */,
+				AE898C962AF5318E00882501 /* 짝수와 홀수.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
