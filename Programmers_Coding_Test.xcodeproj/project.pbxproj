@@ -11,6 +11,7 @@
 		AE898C962AF5318E00882501 /* 짝수와 홀수.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE898C952AF5318E00882501 /* 짝수와 홀수.swift */; };
 		CA5FB1302AF869E300D6D526 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA5FB12F2AF869E300D6D526 /* main.swift */; };
 		CA5FB1322AF869F000D6D526 /* 정수 제곱근 판별.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA5FB1312AF869F000D6D526 /* 정수 제곱근 판별.swift */; };
+		CA5FB1382AF9BDB900D6D526 /* 자연수 뒤집어 배열로 만들기.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA5FB1372AF9BDB900D6D526 /* 자연수 뒤집어 배열로 만들기.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +32,7 @@
 		AE898C952AF5318E00882501 /* 짝수와 홀수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "짝수와 홀수.swift"; sourceTree = "<group>"; };
 		CA5FB12F2AF869E300D6D526 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		CA5FB1312AF869F000D6D526 /* 정수 제곱근 판별.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "정수 제곱근 판별.swift"; sourceTree = "<group>"; };
+		CA5FB1372AF9BDB900D6D526 /* 자연수 뒤집어 배열로 만들기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "자연수 뒤집어 배열로 만들기.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				AE898C952AF5318E00882501 /* 짝수와 홀수.swift */,
 				AE0C233B2AF7D17600EBB864 /* 나머지가 1이 되는 수 찾기.swift */,
 				CA5FB1312AF869F000D6D526 /* 정수 제곱근 판별.swift */,
+				CA5FB1372AF9BDB900D6D526 /* 자연수 뒤집어 배열로 만들기.swift */,
 			);
 			path = Programmers_Coding_Test;
 			sourceTree = "<group>";
@@ -130,6 +133,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AE0C233C2AF7D17600EBB864 /* 나머지가 1이 되는 수 찾기.swift in Sources */,
+				CA5FB1382AF9BDB900D6D526 /* 자연수 뒤집어 배열로 만들기.swift in Sources */,
 				CA5FB1322AF869F000D6D526 /* 정수 제곱근 판별.swift in Sources */,
 				AE898C962AF5318E00882501 /* 짝수와 홀수.swift in Sources */,
 				CA5FB1302AF869E300D6D526 /* main.swift in Sources */,
