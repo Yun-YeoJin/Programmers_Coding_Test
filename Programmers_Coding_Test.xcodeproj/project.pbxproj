@@ -12,6 +12,7 @@
 		CA5FB1302AF869E300D6D526 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA5FB12F2AF869E300D6D526 /* main.swift */; };
 		CA5FB1322AF869F000D6D526 /* 정수 제곱근 판별.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA5FB1312AF869F000D6D526 /* 정수 제곱근 판별.swift */; };
 		CA5FB1382AF9BDB900D6D526 /* 자연수 뒤집어 배열로 만들기.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA5FB1372AF9BDB900D6D526 /* 자연수 뒤집어 배열로 만들기.swift */; };
+		CA5FB13A2AF9BEB000D6D526 /* x만큼 간격이 있는 n개의 숫자.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA5FB1392AF9BEB000D6D526 /* x만큼 간격이 있는 n개의 숫자.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -33,6 +34,7 @@
 		CA5FB12F2AF869E300D6D526 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		CA5FB1312AF869F000D6D526 /* 정수 제곱근 판별.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "정수 제곱근 판별.swift"; sourceTree = "<group>"; };
 		CA5FB1372AF9BDB900D6D526 /* 자연수 뒤집어 배열로 만들기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "자연수 뒤집어 배열로 만들기.swift"; sourceTree = "<group>"; };
+		CA5FB1392AF9BEB000D6D526 /* x만큼 간격이 있는 n개의 숫자.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "x만큼 간격이 있는 n개의 숫자.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 				AE0C233B2AF7D17600EBB864 /* 나머지가 1이 되는 수 찾기.swift */,
 				CA5FB1312AF869F000D6D526 /* 정수 제곱근 판별.swift */,
 				CA5FB1372AF9BDB900D6D526 /* 자연수 뒤집어 배열로 만들기.swift */,
+				CA5FB1392AF9BEB000D6D526 /* x만큼 간격이 있는 n개의 숫자.swift */,
 			);
 			path = Programmers_Coding_Test;
 			sourceTree = "<group>";
@@ -136,6 +139,7 @@
 				CA5FB1382AF9BDB900D6D526 /* 자연수 뒤집어 배열로 만들기.swift in Sources */,
 				CA5FB1322AF869F000D6D526 /* 정수 제곱근 판별.swift in Sources */,
 				AE898C962AF5318E00882501 /* 짝수와 홀수.swift in Sources */,
+				CA5FB13A2AF9BEB000D6D526 /* x만큼 간격이 있는 n개의 숫자.swift in Sources */,
 				CA5FB1302AF869E300D6D526 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
