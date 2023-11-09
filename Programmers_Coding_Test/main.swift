@@ -7,4 +7,4 @@
 
 import Foundation
 
-print(solution5(2, 10))
+print(solution6("ppdodyasucy"))
