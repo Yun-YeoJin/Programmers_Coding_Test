@@ -7,4 +7,4 @@
 
 import Foundation
 
-print(solution10(1))
+print(solution11(["Park","Lee","Kim","Yun"]))
