@@ -7,4 +7,4 @@
 
 import Foundation
 
-print(solution11(["Park","Lee","Kim","Yun"]))
+print(solution12("0278945123"))
