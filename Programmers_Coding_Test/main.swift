@@ -7,4 +7,4 @@
 
 import Foundation
 
-print(solution13([4]))
+print(solution14([4, 6, 2], [true, false, true]))
