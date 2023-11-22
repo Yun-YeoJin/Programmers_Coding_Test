@@ -7,4 +7,4 @@
 
 import Foundation
 
-print(solution18("abcde"))
+print(solution19([1,3,4,5,7], [-1,2,4,6,-9]))
