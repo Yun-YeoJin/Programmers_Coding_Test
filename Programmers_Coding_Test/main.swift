@@ -7,4 +7,4 @@
 
 import Foundation
 
-print(solution21(13, 17))
+print(solution22("Zbcdefg"))
