@@ -7,4 +7,4 @@
 
 import Foundation
 
-print(solution26("1 2 3 4"))
+print(solution27("3people unFollowed me"))
