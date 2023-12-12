@@ -7,4 +7,4 @@
 
 import Foundation
 
-print(solution30(45))
+print(solution31("try hello world"))
