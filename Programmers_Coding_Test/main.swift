@@ -7,4 +7,4 @@
 
 import Foundation
 
-print(solution29("()()"))
+print(solution30(45))
