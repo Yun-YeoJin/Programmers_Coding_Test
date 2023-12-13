@@ -7,4 +7,4 @@
 
 import Foundation
 
-print(solution31("try hello world"))
+print(solution32("0111010"))
