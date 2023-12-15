@@ -7,4 +7,4 @@
 
 import Foundation
 
-print(solution34(15))
+print(solution35([-2, 3, 0, 2, -5]))
