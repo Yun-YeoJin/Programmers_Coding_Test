@@ -7,4 +7,4 @@
 
 import Foundation
 
-print(solution33("3141592", "271"))
+print(solution34(15))
