@@ -7,4 +7,4 @@
 
 import Foundation
 
-print(solution42("one4seveneight"))
+print(solution43(["sun", "bed", "car"], 1))
