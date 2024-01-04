@@ -7,4 +7,4 @@
 
 import Foundation
 
-print(solution45([1, 3, 4, 6]))
+print(solution46(3, ["tank", "kick", "know", "wheel", "land", "dream", "mother", "robot", "tank"]))
