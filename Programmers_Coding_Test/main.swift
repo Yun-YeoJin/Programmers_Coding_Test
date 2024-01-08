@@ -7,4 +7,4 @@
 
 import Foundation
 
-print(solution50(5000))
+print(solution51(2, 1, 20))
