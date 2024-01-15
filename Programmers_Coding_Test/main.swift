@@ -7,4 +7,4 @@
 
 import Foundation
 
-print(solution54(["may", "kein", "kain", "radi"], [5, 10, 1, 3], [["may", "kein", "kain", "radi"],["may", "kein", "brin", "deny"], ["kon", "kain", "may", "coni"]]))
+print(solution55(6, [1, 3, 2, 5, 4, 5, 2, 3]))
