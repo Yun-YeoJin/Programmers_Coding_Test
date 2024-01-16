@@ -7,4 +7,4 @@
 
 import Foundation
 
-print(solution55(6, [1, 3, 2, 5, 4, 5, 2, 3]))
+print(solution56([7, 9, 1, 1, 4]))

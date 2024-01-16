@@ -17,7 +17,7 @@ import Foundation
 func solution55(_ k:Int, _ tangerine:[Int]) -> Int {
     
     var dic: [Int: Int] = [:]
-    var size = Set(tangerine).sorted(by: <)
+    let size = Set(tangerine).sorted(by: <)
     var result: Int = 0
     var num = k
 
@@ -29,7 +29,7 @@ func solution55(_ k:Int, _ tangerine:[Int]) -> Int {
         }
     }
 
-    var sortedDic = dic.values.sorted(by: >)
+    let sortedDic = dic.values.sorted(by: >)
     for i in sortedDic {
         result += 1
         num -= i
