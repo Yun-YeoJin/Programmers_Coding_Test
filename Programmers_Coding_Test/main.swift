@@ -7,4 +7,4 @@
 
 import Foundation
 
-print(solution57(["i", "drink", "water"], ["want", "to"], ["i", "want", "to", "drink", "water"]))
+print(solution58("}]()[{"))
