@@ -7,4 +7,4 @@
 
 import Foundation
 
-print(solution62([[1, 4], [3, 2], [4, 1]], [[3, 3], [3, 3]]))
+print(solution63([["yellow_hat", "headgear"], ["blue_sunglasses", "eyewear"], ["green_turban", "headgear"]]))
