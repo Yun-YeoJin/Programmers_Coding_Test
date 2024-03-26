@@ -7,4 +7,4 @@
 
 import Foundation
 
-print(solution64(3, ["Jeju", "Pangyo", "Seoul", "NewYork", "LA", "Jeju", "Pangyo", "Seoul", "NewYork", "LA"]))
+print(solution65(5, 24))
