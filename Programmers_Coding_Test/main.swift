@@ -7,4 +7,4 @@
 
 import Foundation
 
-print(solution67("{{20,111},{111}}"))
+print(solution68([1,3,2,4,2]))
