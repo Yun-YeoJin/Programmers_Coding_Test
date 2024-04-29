@@ -7,4 +7,4 @@
 
 import Foundation
 
-print(solution721(3, 4, [1,2,3,1,2,3,1]))
+print(solution73(["I -45", "I 653", "D 1", "I -642", "I 45", "I 97", "D 1", "D -1", "I 333"]))
