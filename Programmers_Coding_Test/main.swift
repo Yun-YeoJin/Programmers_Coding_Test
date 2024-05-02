@@ -7,4 +7,4 @@
 
 import Foundation
 
-print(solution74(3, [[1, 1, 0], [1, 1, 0], [0, 0, 1]]))
+print(solution75("KAKAO"))
