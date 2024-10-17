@@ -7,4 +7,4 @@
 
 import Foundation
 
-print(solution75("KAKAO"))
+print(solution77("I"))
